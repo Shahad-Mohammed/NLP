@@ -1,5 +1,4 @@
 # Summarize-Talabat-Company-Reviews
-The main purpose of this project is to help business owners analyze customer reviews more easily and reduce their burden by making it easier for them to read the results.
 
 In today's business environment, understanding
 customers and their needs is crucial for companies to
